@@ -31,7 +31,7 @@ void printWelcomeMenu() {
     printf(" **********************\n");
     printf("**   Welcome to the   **\n");
     printf("**   BCS Calculator   **\n");
-    printf(" **********************\n");
+    printf(" *********************\n");
 }
 
 void printOptions() {
